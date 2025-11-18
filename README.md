@@ -3,7 +3,7 @@ Audiokinetic Wwise SDK 2008 v2.1.2821
 
 This repository contains **Wwise 2008 (version 2.1.2821)**, the audio middleware engine from Audiokinetic. Wwise is widely used in games and interactive applications for **real-time audio integration, sound management, and interactive music**.
 
-> This repository may contain ancient source code, headers, and examples. It does **not** include modern Wwise tools or installers. Intended for archival, research, or legacy project use.
+This repository may contain ancient source code, headers, and examples. It does **not** include modern Wwise tools or installers. Intended for archival, research, or legacy project use.
 
 ## Purpose of this Repository
 
